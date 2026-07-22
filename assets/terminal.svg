@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="610" viewBox="0 0 1160 610" role="img" aria-labelledby="title desc">
+  <title id="title">noportim terminal profile</title>
+  <desc id="desc">ASCII portrait and developer profile information for Artem</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#09111d"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; }
+      .ascii { font-size: 16px; fill: #7ee787; white-space: pre; }
+      .title { font-size: 20px; font-weight: 700; fill: #7ee787; }
+      .prompt { font-size: 15px; fill: #8b949e; }
+      .key { font-size: 15px; fill: #79c0ff; }
+      .value { font-size: 15px; fill: #c9d1d9; }
+      .footer { font-size: 14px; fill: #8b949e; }
+    </style>
+  </defs>
+
+  <rect x="6" y="6" width="1148" height="598" rx="18" fill="url(#bg)" stroke="#30363d" stroke-width="2"/>
+  <rect x="20" y="20" width="1120" height="40" rx="10" fill="#161b22"/>
+  <circle cx="43" cy="40" r="7" fill="#ff5f56"/>
+  <circle cx="67" cy="40" r="7" fill="#ffbd2e"/>
+  <circle cx="91" cy="40" r="7" fill="#27c93f"/>
+  <text x="120" y="46" class="mono prompt">noportim@github: ~</text>
+
+  <rect x="25" y="76" width="520" height="470" rx="12" fill="#0d1117" stroke="#21262d"/>
+  <text class="mono ascii" filter="url(#glow)">
+    <tspan x="38" y="94">####**###*+********************+********</tspan><tspan x="38" y="113">******####+********************+********</tspan><tspan x="38" y="132">*+******##******##****########*+********</tspan><tspan x="38" y="151">*********#***=-----:...-=---=++*********</tspan><tspan x="38" y="170">*******##*+-:.               .=**##*****</tspan><tspan x="38" y="189">********=.                      .-******</tspan><tspan x="38" y="208">******=:.                         :+****</tspan><tspan x="38" y="227">******-      ...                   +####</tspan><tspan x="38" y="246">***###:..:---==-:::::...:::...    .*####</tspan><tspan x="38" y="265">######-::=*#*++====------------:  .#####</tspan><tspan x="38" y="284">######+-+##**++===------------:-: -#####</tspan><tspan x="38" y="303">######*=%#*=:..   .:::..    ....-:*#####</tspan><tspan x="38" y="322">#%%%%%#=##*=-.    .+=-:     ...:-=##%%%%</tspan><tspan x="38" y="341">%%%%%#+*##*=-.  ..=#+--:.   ..:---:*%%%#</tspan><tspan x="38" y="360">#%%%%#-*#%#+=---=##*+-------------:####*</tspan><tspan x="38" y="379">##%%%%#*#%#+==+==##*=-----------=**%%%##</tspan><tspan x="38" y="398">%##%%%%%#####*+--=---...:-------=#%%%###</tspan><tspan x="38" y="417">%%############*+====:::::----=--*###++++</tspan><tspan x="38" y="436">###*######*##*+:-=-:.....::----+###+=+++</tspan><tspan x="38" y="455">####*######***-:--:.   ..:::--+###*+***+</tspan><tspan x="38" y="474">***#*********++==---:.:::::::-+======+**</tspan><tspan x="38" y="493">*****+=:..-+*+++===-...::::::-=.      .+</tspan><tspan x="38" y="512">++++++  .=%++*+=++=:. ..::::::###+=+++++</tspan><tspan x="38" y="531">*****+-+%@@#=*+====-...::::::-%##*####*+</tspan>
+  </text>
+
+  <text x="585" y="79" class="mono title">noportim@github</text>
+  <text class="mono">
+    <tspan x="585" y="100" class="key">user</tspan><tspan x="725" y="100" class="value">Artem / noportim</tspan><tspan x="585" y="127" class="key">location</tspan><tspan x="725" y="127" class="value">Chisinau, Moldova</tspan><tspan x="585" y="154" class="key">education</tspan><tspan x="725" y="154" class="value">College of Informatics</tspan><tspan x="585" y="181" class="key">role</tspan><tspan x="725" y="181" class="value">Frontend developer · iOS learner</tspan><tspan x="585" y="208" class="key">languages</tspan><tspan x="725" y="208" class="value">Russian · Romanian · English</tspan><tspan x="585" y="262" class="key">os</tspan><tspan x="725" y="262" class="value">macOS · Linux</tspan><tspan x="585" y="289" class="key">shell</tspan><tspan x="725" y="289" class="value">zsh · bash</tspan><tspan x="585" y="316" class="key">editors</tspan><tspan x="725" y="316" class="value">VS Code · Xcode</tspan><tspan x="585" y="370" class="key">frontend</tspan><tspan x="725" y="370" class="value">TypeScript · React · Tailwind CSS</tspan><tspan x="585" y="397" class="key">mobile</tspan><tspan x="725" y="397" class="value">Swift · SwiftUI</tspan><tspan x="585" y="424" class="key">backend</tspan><tspan x="725" y="424" class="value">Node.js</tspan><tspan x="585" y="451" class="key">tools</tspan><tspan x="725" y="451" class="value">Git · Docker · Bash</tspan><tspan x="585" y="505" class="key">hobbies</tspan><tspan x="725" y="505" class="value">Sport · Pet projects</tspan><tspan x="585" y="532" class="key">contact</tspan><tspan x="725" y="532" class="value">Discord: artozzz</tspan>
+  </text>
+
+  <text x="38" y="580" class="mono footer">$ echo "Code. Learn. Build. Repeat."</text>
+  <rect x="376" y="567" width="9" height="17" rx="1" fill="#7ee787">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
